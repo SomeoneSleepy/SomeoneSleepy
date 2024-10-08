@@ -2,9 +2,7 @@
 Hi I am Someone (He/Him)
 
 
-עם ישראל חי
-<img src="https://em-content.zobj.net/source/apple/155/flag-for-israel_1f1ee-1f1f1.png" alt="flag" width="20" height="20" align="bottom"/>
-
+<h3><img align="center" height="30" width="30" src="https://em-content.zobj.net/source/apple/155/flag-for-israel_1f1ee-1f1f1.png"> עם ישראל חי</h3>
 
 - Game Translator at [Team Kipod](https://teamkipod.carrd.co/)
 - Programming in multiple languages
