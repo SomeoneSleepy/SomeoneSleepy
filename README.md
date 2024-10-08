@@ -1,4 +1,4 @@
-## About Me 🤝
+# About Me 🤝
 Hi I am Someone (He/Him)
 - Game Translator at [Team Kipod](https://teamkipod.carrd.co/)
 - Programming in multiple languages
