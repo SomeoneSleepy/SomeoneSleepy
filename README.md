@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![Discord Presence](https://rpcrm.vercel.app/api/mosesinthebox)](https://discord.com/users/mosesinthebox)
 
 <!--
 **SomeoneSleepy/SomeoneSleepy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
