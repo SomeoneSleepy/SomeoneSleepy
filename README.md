@@ -3,7 +3,7 @@ Hi I am Someone (He/Him)
 
 
 עם ישראל חי
-<img src="https://em-content.zobj.net/source/apple/155/flag-for-israel_1f1ee-1f1f1.png" alt="flag" width="30" height="30" />
+<img src="https://em-content.zobj.net/source/apple/155/flag-for-israel_1f1ee-1f1f1.png" alt="flag" width="20" height="20" />
 
 
 - Game Translator at [Team Kipod](https://teamkipod.carrd.co/)
