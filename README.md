@@ -1,4 +1,4 @@
-<h1> About Me</h1>
+<h3>About Me</h3>
 <p>Hi I am Someone (He/Him)</p>
 
 
