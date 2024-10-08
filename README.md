@@ -1,6 +1,8 @@
 ## About Me
 Hi I am Someone (He/Him)
-- game translator at [Team Kipod](https://teamkipod.carrd.co/)
+- Game Translator at [Team Kipod](https://teamkipod.carrd.co/)
+- Programming in multiple languages
+
 [![Discord Presence](https://rpcrm.vercel.app/api/942438935970340874)](https://discord.com/users/942438935970340874)
 
 <!--
