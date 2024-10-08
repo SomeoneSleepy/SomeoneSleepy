@@ -1,6 +1,6 @@
 # About Me 🤝
 Hi I am Someone (He/Him)
-<h3 align="right" style="display:inline">עם ישראל חי</h3>
+עם ישראל חי
 <img src="https://em-content.zobj.net/source/apple/155/flag-for-israel_1f1ee-1f1f1.png" alt="flag" width="40" height="40" target="_blank" rel="noreferrer"/>
 - Game Translator at [Team Kipod](https://teamkipod.carrd.co/)
 - Programming in multiple languages
