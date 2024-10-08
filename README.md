@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 
+I am Someone, I am a programmer, game translator at [Team Kipod](https://teamkipod.carrd.co/)
 [![Discord Presence](https://rpcrm.vercel.app/api/942438935970340874)](https://discord.com/users/942438935970340874)
 
 <!--
