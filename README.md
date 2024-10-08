@@ -1,5 +1,6 @@
 # About Me 🤝
 Hi I am Someone (He/Him)
+**עם ישראל חי** 🇮🇱
 - Game Translator at [Team Kipod](https://teamkipod.carrd.co/)
 - Programming in multiple languages
 <h3 align="left">Languages and Tools:</h3>
