@@ -1,9 +1,6 @@
 <h3>About Me 👤</h3>
-<p>Hi I am Someone</p>
-
-
-<p>עם ישראל חי <img align="center" height="30" width="30" src="https://em-content.zobj.net/source/apple/155/flag-for-israel_1f1ee-1f1f1.png"></p>
-
+<p>Hi I am Someone, A proud <img align="center" height="30" width="30" src="https://em-content.zobj.net/source/apple/155/flag-for-israel_1f1ee-1f1f1.png"> that likes programming and learning. currently working on low-level projects.</p>
+<p>עם ישראל חי </p>
 - Game Translator at [Team Kipod](https://teamkipod.carrd.co/)
 - Programming in multiple languages
 <h3 align="left">Languages and Tools:</h3>
