@@ -5,6 +5,7 @@
   currently working on low-level projects.
 </p>
 - Game Translator and (sort of) mods coder at [Team Kipod](https://teamkipod.carrd.co/)
+
 - Hobbyist Programmer
 
 
