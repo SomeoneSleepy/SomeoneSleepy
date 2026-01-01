@@ -8,7 +8,7 @@
 </p>
 
 <p>
-  Currently working on low-level and systems-related projects.
+  Currently working on low-level projects.
 </p>
 
 <ul>
