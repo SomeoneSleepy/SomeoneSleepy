@@ -1,12 +1,11 @@
 <h3>About Me 👤</h3>
 <p>
-  Hi I am Someone, A proud <img align="center" height="30" width="30" src="https://em-content.zobj.net/source/apple/155/flag-for-israel_1f1ee-1f1f1.png"> that likes programming.
+  Hi I am Noam, a proud <img align="center" height="30" width="30" src="https://em-content.zobj.net/source/apple/155/flag-for-israel_1f1ee-1f1f1.png"> that likes programming.
   
   currently working on low-level projects.
 </p>
-
-- Vibe Coding 😎 (for real though)
 - Game Translator and (sort of) mods coder at [Team Kipod](https://teamkipod.carrd.co/)
+- Hobbyist Programmer
 
 
 <h3 align="left">Languages and Tools (I am too lazy to add all, sorry lol):</h3>
